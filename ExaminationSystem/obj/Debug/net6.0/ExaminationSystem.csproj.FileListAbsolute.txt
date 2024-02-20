@@ -1,0 +1,14 @@
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfoInputs.cache
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.AssemblyInfo.cs
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.exe
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.deps.json
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.runtimeconfig.json
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.dll
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\bin\Debug\net6.0\ExaminationSystem.pdb
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.dll
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\refint\ExaminationSystem.dll
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.pdb
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ExaminationSystem.genruntimeconfig.cache
+F:\ASP.net(Route)\Ahmed Khalid\02 C#\Exam\ExaminationSystemSolution\ExaminationSystem\obj\Debug\net6.0\ref\ExaminationSystem.dll
